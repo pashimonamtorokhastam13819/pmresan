@@ -57,7 +57,6 @@ reload bot!
  cd ..
  
  #Launch BOT!
- git clone https://github.com/Mrhalix/lua-pmrsn
  cd lua-pmrsn
  chmod +x ./launch.sh
  ./launch.sh
@@ -77,7 +76,4 @@ Created by ❤️ in iran
 
 by =>
 
-[Mrhalix](http://telegram.me/mrhalix)
-
-Powered By [ROYALTEAM](http://telegram.me/royalteamch)
-{Special Tnx To [AmirSbss](http://telegram.me/Amir_h) For Block List}
+[NBG](http://telegram.me/Mohammad_NBG)
